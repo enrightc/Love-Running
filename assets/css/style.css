@@ -3,14 +3,27 @@
 /* font-family: 'Lato', sans-serif; */
 /* font-family: 'Oswald', sans-serif; */
 
-/*
+
 * {
     margin: 0;
     padding: 0;
     border: 0;
 }
-*/
+
 
 body {
     font-family: 'Lato', sans-serif;
+    color: #777777;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #555555;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
